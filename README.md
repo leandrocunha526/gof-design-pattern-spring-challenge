@@ -13,7 +13,7 @@ Exemplo de requisição em `localhost:8080/clientes` (POST):
 }
 ```
 
-Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando Java puro:
+Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando Java com Spring:
 
 Singleton
 Strategy
@@ -125,7 +125,7 @@ Reduz o acoplamento entre subsistemas.
 
 Torna o código cliente mais limpo e compreensível.
 
-Para acessar o DB: <localhost:8080/h2-console>
+Para acessar o DB: <localhost:8080/h2-console>  
 Para acessar o Swagger: <http://localhost:8080/swagger-ui/index.html>
 
 **Desafio DIO**
